@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = "https://github.com/PerezDC/PerezDC.github.io/blob/main/Image%202.png" width="200">
+  <img src = "https://github.com/PerezDC/PerezDC.github.io/blob/main/Image%205.png" width="200">
 </p>
 
 # Hi, I'm David! 👋
@@ -38,7 +38,7 @@ and I've been with AmeriBen for over a year. :baby:
 ## Thanks for checking out my GitHub page! Stay in touch and shoot me a connection request on [LinkedIn](https://www.linkedin.com/in/david-c-perez1/)!
 
 <p align="center">
-  <img src = "https://github.com/PerezDC/PerezDC/blob/main/Image%202.png" width="200">
+  <img src = "https://github.com/PerezDC/PerezDC.github.io/blob/main/Image%202.png" width="200">
 </p>
 
 
